@@ -160,6 +160,7 @@ nav {
 /* Aside (product detail y carrito) */
 aside {
     background-color: var(--white);
+    padding: 10px;
     width: 360px;
     box-sizing: border-box;
     position: absolute;
@@ -354,7 +355,7 @@ aside {
 .desktop-menu{
         display: none;
 }
-.product-detail {
+aside {
     width: 100%;
 }
 .cards-container {
