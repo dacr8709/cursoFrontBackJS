@@ -237,6 +237,7 @@ aside {
     font-size: var(--md);
     font-weight: bold;
     height: 50px;
+    font-family: "Quick";
 }
 
 /* Product Details */
@@ -291,6 +292,7 @@ aside {
     font-size: var(--md);
     font-weight: bold;
     height: 50px;
+    font-family: 'Quicksand', sans-serif;
 }
 .add-to-cart-button {
     display: flex;
